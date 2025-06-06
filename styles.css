@@ -157,6 +157,8 @@ align-items: center;
 
 #record-caption {
     padding-top: 50px;
+    width: 100%;
+    text-align: center;
 }
 
 .pink {
@@ -229,7 +231,7 @@ a {
     display: block;
     justify-content: center;
     margin-top: 150px;
-    margin-bottom: 100px;
+    margin-bottom: 600px;
 }
 
 #record {
@@ -242,5 +244,9 @@ a {
     text-align: center;
     padding-left: 8%;
     padding-right: 8%;
+}
+
+p {
+    font-size: large;
 }
 }
