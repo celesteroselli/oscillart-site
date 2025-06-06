@@ -222,3 +222,25 @@ p {
 a {
     color: white;
 }
+
+@media (max-width: 1250px) {
+  #words {
+    width: 100%;
+    display: block;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+#record {
+    width: 100%;
+}
+
+#desc {
+    width: 90%;
+    color: white;
+    text-align: center;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+}
