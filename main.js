@@ -15,3 +15,5 @@
   x.addEventListener("change", function() {
     changeLogo(x);
   });
+
+  changeLogo(x);
