@@ -229,22 +229,23 @@ a {
   #words {
     width: 100%;
     display: block;
-    justify-content: center;
     margin-top: 150px;
     height: 100%;
 }
 
 #record {
-    width: 100%;
+    width: 80%;
+    margin: auto;
 }
 
 #desc {
-    width: 90%;
+    width: 80%;
     color: white;
     text-align: center;
     padding-left: 8%;
     padding-right: 8%;
     margin-bottom: 200px;
+    margin: auto;
 }
 
 p {
