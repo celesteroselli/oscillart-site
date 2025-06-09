@@ -1,7 +1,7 @@
   function changeLogo() {
         const logo = document.getElementById("video");
         if (window.innerWidth < 1200) {
-            logo.innerHTML = "<img width='100%' src ='gallery/demo.gif'> ";
+            logo.innerHTML = "<img width='100%' src ='waves.png'> ";
             console.log("changed to gif");
         } else {
             logo.innerHTML = "<video autoplay loop muted width='100%'><source src='gallery/demo.webm' type='video/webm'></video>";
